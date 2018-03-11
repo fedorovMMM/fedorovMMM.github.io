@@ -14,4 +14,4 @@
 ### Полезные ссылки:
 GitHub [Тык](https://github.com/fedorovMMM)
 <br>
-Личная страница [Тык](https://github.com/fedorovMMM/fedorovMMM/wiki/Задача)
+Личная страница [Тык](https://github.com/fedorovMMM/fedorovMMM.github.io/wiki/Задача)
