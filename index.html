@@ -25,7 +25,7 @@ function drawFace(ctx, radius) {
   ctx.fill();
   grad = ctx.createRadialGradient(0,0,radius*0.95, 0,0,radius*1.05);
   grad.addColorStop(0, '#0000FF');
-  grad.addColorStop(0.5, 'black');
+  grad.addColorStop(0.5, '#7FFFD4');
   grad.addColorStop(1, '#199');
   ctx.strokeStyle = grad;
   ctx.lineWidth = radius*0.1;
